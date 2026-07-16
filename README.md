@@ -81,7 +81,7 @@ python main.py
 
 ### Ana Menü
 
-![Ana Menü](screenshots/menu.png)
+![Ana Menü](screenshots/ana_ekran.png)
 
 ### Oyun İçi
 
@@ -90,9 +90,6 @@ python main.py
 ### Boss Bölümü
 
 ![Boss](screenshots/boss.png)
-
-
----
 
 ## 💡 Gelecekte Eklenebilecek Özellikler
 
